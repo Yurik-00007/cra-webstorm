@@ -21,6 +21,8 @@ function App() {
         <div>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur, possimus?</div>
         <p>5</p>
         <p>55</p>
+        <p>6</p>
+        <p>55</p>
     </div>
   );
 }
